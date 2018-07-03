@@ -1,7 +1,5 @@
 ### This project is used study a classification problem using a dataset in the UCI machine learning repository and demonstrate the use of various classification models on the dataset. 
-The complete project report can be found [here](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/Project%20Report.pdf)
-
-The dataset used for this project is the [BLE RSSI Dataset for Indoor localization and Navigation](https://archive.ics.uci.edu/ml/datasets). This is a multivariate classification problem. The dataset contains RSSI readings gathered from an array of Bluetooth Low Energy (BLE) iBeacons in a real-world and operational indoor environment for localization and navigation purposes.
+The complete project report can be found [here](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/Project%20Report.pdf). The dataset used for this project is the [BLE RSSI Dataset for Indoor localization and Navigation](https://archive.ics.uci.edu/ml/datasets). This is a multivariate classification problem. The dataset contains RSSI readings gathered from an array of Bluetooth Low Energy (BLE) iBeacons in a real-world and operational indoor environment for localization and navigation purposes.
 
 The figure below depicts the layout of the iBeacons as well as the arrangement of locations: 
 ![alt text](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/images/iBeacon_Layout.jpg "iBeacon_Layout")
