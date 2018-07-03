@@ -1,6 +1,6 @@
-This project is used study a classification problem using a dataset in the UCI Machine Learning Repository and demonstrate the use of various classification models on the dataset.
-The 3 classification models chosen for this project are K-Nearest Neighbors (K-NN), Support Vector Machines (SVM) and Random Forests (RF). 
-As discussed in the [project report](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/Project%20Report.pdf) , this project uses 3 iterative versions of the model architecture on which the classifiers are trained.
+### This project is used study a classification problem using a dataset in the UCI Machine Learning Repository and demonstrate the use of various classification models on the dataset.
+
+The 3 classification models chosen for this project are K-Nearest Neighbors (K-NN), Support Vector Machines (SVM) and Random Forests (RF). As discussed in the [project report](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/Project%20Report.pdf) , this project uses 3 iterative versions of the model architecture on which the classifiers are trained.
 
 
  
@@ -18,12 +18,12 @@ Supporting libraries are:
 #### MODELS
 The folder contains 3 different Jupyter notebooks used for implementing the models:
 
-- Baseline Model 
-- Iteration-1 Model
-- Iteration-2 Model
+- [Baseline Model](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/code/Basline%20Model.ipynb) 
+- [Iteration-1 Model](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/code/Iteration-1%20Model.ipynb)
+- [Iteration-2 Model](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/code/Iteration-2%20Model.ipynb)
 
 The project also contains a separate jupyter notebook that's used to visualize the Dataset named:
-- Dataset Visualization
+- [Dataset Visualization](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/code/Dataset%20Visualization.ipynb)
 
 
 
