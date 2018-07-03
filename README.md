@@ -7,12 +7,12 @@ The figure below depicts the layout of the iBeacons as well as the arrangement o
 
 The 3 classification models chosen for this project are:
 
-1. K-Nearest Neighbors: 
-2. Support Vector Machines: 
-3. Random Forests:
+1. **K-Nearest Neighbors**
+2. **Support Vector Machines** 
+3. **Random Forests**
 
 
-The project traines the 3 classifiers over muliple iterations of the baseline model architecture as described in the table below:
+The 3 classifiers are trained over multiple iterations of the baseline model architecture as described in the table below:
 
 ![alt text](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/images/arch_table.JPG "Arch_table")
 
