@@ -5,13 +5,13 @@ The 3 classification models chosen for this project are K-Nearest Neighbors (K-N
 
  
 #### GETTING STARTED
-The project uses Jupyter notebooks with python 3.6 installed for implementing the model architectures.
+The project uses Jupyter notebooks with *python 3.6* installed for implementing the model architectures.
 
 Supporting libraries are:
-- pandas for data structuring
-- numpy for linear algebra (mostly dealing with matrices)
-- sklearn for encoding and data sampling
-- matplotlib for plotting quality figures and plots
+- *pandas* for data structuring
+- *numpy* for linear algebra (mostly dealing with matrices)
+- *sklearn* for encoding and data sampling
+- *matplotlib* for plotting quality figures and plots
 
 
 
