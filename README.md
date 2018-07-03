@@ -1,4 +1,4 @@
-##### This project is used study a classification problem using a dataset in the UCI Machine Learning Repository and demonstrate the use of various classification models on the dataset and demonstrate the use of various classification models on the dataset.
+### This project is used study a classification problem using a dataset in the UCI Machine Learning Repository and demonstrate the use of various classification models on the dataset and demonstrate the use of various classification models on the dataset.
 
 
 The complete Project Report can be found [here](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/Project%20Report.pdf)
