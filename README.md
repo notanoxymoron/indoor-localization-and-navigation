@@ -12,7 +12,7 @@ The 3 classification models chosen for this project are:
 3. **Random Forests**
 
 
-The 3 classifiers are trained over multiple iterations of the baseline model architecture as described in the table below:
+The 3 classifiers are trained over [multiple iterations](https://github.com/dbrownambi/indoor-localization-and-navigation/tree/master/code) of the baseline model architecture as described in the table below:
 
 ![alt text](https://github.com/dbrownambi/indoor-localization-and-navigation/blob/master/images/arch_table.JPG "Arch_table")
 
